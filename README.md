@@ -6,7 +6,7 @@ You can recognize helocpter types.
 This model is made by CoreML and CreateML.
 
 What is coreML?
-
+https://developer.apple.com/jp/documentation/coreml/
 
 ↓↓ Recognizable types ↓↓ 
 
