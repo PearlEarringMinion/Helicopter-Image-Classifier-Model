@@ -20,6 +20,9 @@ What is coreML?
 -AW139
 -C680
 
+![2021-11-29 16 58のイメージ](https://user-images.githubusercontent.com/87939804/143856828-18e4a5bb-859e-4496-b56a-0e9a2a851139.jpg)
+
+
 # Requirements
 - Xcode
 - CoreML
