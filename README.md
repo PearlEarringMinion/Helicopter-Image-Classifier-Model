@@ -19,6 +19,15 @@ https://developer.apple.com/jp/documentation/coreml/
 -S76
 -AW139
 -C680
+-Kaman K-MAX
+-B204
+-B206
+-R22
+-R44
+-S76
+-SA315
+-AW101
+-AS365
 
 ![2021-11-29 20 08のイメージ](https://user-images.githubusercontent.com/87939804/143857455-a64a9fbd-a066-4a54-ad59-8106eb09ea6a.jpg)
 
